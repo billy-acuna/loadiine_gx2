@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Loadiine GX2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-05-30 02:52+0200\n"
-"PO-Revision-Date: 2016-04-02 07:28+0200\n"
+"PO-Revision-Date: 2016-14-09 14:10+0200\n"
 "Last-Translator: MasQchips\n"
 "Language-Team: MasQchips\n"
 "Language: Español\n"
@@ -295,3 +295,15 @@ msgstr "Si"
 
 msgid "No"
 msgstr "No"
+
+msgid "Loading file"
+msgstr "Cargando archivo"
+
+msgid "Writing list to SD"
+msgstr "Escribiendo lista en SD"
+
+msgid "Creating filelist.txt:"
+msgstr "Creando filelist.txt:"
+
+msgid "entries found"
+msgstr "entradas encontradas"

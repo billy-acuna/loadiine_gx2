@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Loadiine GX2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-05-07 09:59+0200\n"
-"PO-Revision-Date: 2016-04-03 19:00+0200\n"
+"PO-Revision-Date: 2016-14-09 14:10+0200\n"
 "Last-Translator: BHackUP, littlebalup, Cyan\n"
 "Language-Team: BHackUP, littlebalup, Cyan\n"
 "Language: Français\n"
@@ -92,7 +92,6 @@ msgstr "Grille"
 msgid "Cover Carousel"
 msgstr "Carrousel de jaquettes"
 
-# translated as nul terminator (hidden), as the option is not implemented yet.
 msgid "Background customizations"
 msgstr "Personnalis. arrière-plan"
 
@@ -296,3 +295,15 @@ msgstr "Oui"
 
 msgid "No"
 msgstr "Non"
+
+msgid "Loading file"
+msgstr ""
+
+msgid "Writing list to SD"
+msgstr ""
+
+msgid "Creating filelist.txt:"
+msgstr ""
+
+msgid "entries found"
+msgstr ""
